@@ -1,5 +1,11 @@
 # Fine-Tuning-Stable-Diffusion-Model
 
+# Team Members
+- Rupkatha
+- Aastha
+- Jeshma
+
+
 # PROJECT PROPOSAL
 
 ## AIM
