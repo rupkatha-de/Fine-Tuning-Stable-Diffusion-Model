@@ -1,11 +1,5 @@
 # Fine-Tuning-Stable-Diffusion-Model
 
-# Team Members
-- Rupkatha
-- Aastha
-- Jeshma
-
-
 # PROJECT PROPOSAL
 
 ## AIM
@@ -49,3 +43,8 @@ To develop a quality-tuned model on top of a base model like Stable Diffusion XL
 3. **Complex Task Handling:** Dreambooth's ability to modify the entire network enhances SD XL’s capacity to handle complex tasks and large datasets. This results in improved performance and accuracy, especially in scenarios where sophisticated image generation or manipulation is required.
 4. **High-Quality Image Generation:** By leveraging Dreambooth's customization features, SD XL can produce even higher-quality images with detailed features and realistic appearance, complementing its existing high-quality image generation capabilities.
 5. **Modular Design and Compatibility:** Both LORA and Dreambooth feature modular designs compatible with various models and frameworks, enhancing SD XL flexibility and interoperability. This allows for seamless integration with existing workflows and architectures, facilitating easier adoption and usage.
+
+# Team Members
+- Rupkatha De 
+- Aastha Kumar
+- Jeshma Ullas
